@@ -69,7 +69,7 @@
               <div class="portfolio-info">
                 <h3>Who we are</h3>
                 <ul>
-                  <li><span>We are a quadruple A construction company accredited by PCAB and one of the leading builders in the Philippines.</span> </li>
+                  <li><span>We are a Quadruple AAAA construction company accredited by PCAB and one of the leading builders in the Philippines.</span> </li>
                  
                 </ul>
                 <h3>What We Do</h3>

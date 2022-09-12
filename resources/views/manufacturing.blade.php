@@ -78,7 +78,7 @@
            
           </div>
           <div class="col-lg-4 text-center">
-            <div class="post-img">
+            <div class="post-img mb-3">
               <img src="assets/products/1.jpg" alt="" class="img-fluid">
             </div>
               <h4>GRAVEL G1</h4>
@@ -87,7 +87,7 @@
                 coarser specifications.</span>
           </div>
           <div class="col-lg-4 text-center">
-            <div class="post-img">
+            <div class="post-img mb-3">
               <img src="assets/products/2.jpg" alt="" class="img-fluid">
             </div>
               <h4>GRAVEL 3/4</h4>
@@ -98,7 +98,7 @@
           </div>
  
           <div class="col-lg-4 text-center">
-            <div class="post-img">
+            <div class="post-img mb-3">
               <img src="assets/products/3.jpg" alt="" class="img-fluid">
             </div>
               <h4>GRAVEL 3/8</h4>
@@ -109,7 +109,7 @@
                 and as a base under sheds.</span>
           </div>
           <div class="col-lg-4 text-center">
-            <div class="post-img">
+            <div class="post-img mb-3">
               <img src="assets/products/4.jpg" alt="" class="img-fluid">
             </div>
               <h4>SAND</h4>
@@ -119,7 +119,7 @@
                 pavement coatings.</span>
           </div>
           <div class="col-lg-4 text-center">
-            <div class="post-img">
+            <div class="post-img mb-3">
               <img src="assets/products/5.jpg" alt="" class="img-fluid">
             </div>
               <h4>VIBRO SAND</h4>
@@ -131,8 +131,8 @@
                 plastering.</span>
           </div>
           <div class="col-lg-4 text-center">
-            <div class="post-img">
-              <img src="assets/products/6.jpg" alt="" class="img-fluid">
+            <div class="post-img mb-3">
+              <img src="assets/products/9.jpg" alt="" class="img-fluid">
             </div>
               <h4>ARMOUR ROCKS</h4>
               <span class='text-secondary'>Armour Rocks: 500mm to 1000mm in size. These are used
@@ -143,8 +143,8 @@
                 from fast flowing waves or water currents.</span>
           </div>
           <div class="col-lg-4 text-center">
-            <div class="post-img">
-              <img src="assets/products/1.jpg" alt="" class="img-fluid">
+            <div class="post-img mb-3">
+              <img src="assets/products/6.jpg" alt="" class="img-fluid">
             </div>
               <h4>BALLAST</h4>
               <span class='text-secondary'>Ballast: These are the coarsest form of aggregates.
@@ -154,8 +154,8 @@
                 aid for vehicles, boats, and ships.</span>
           </div>
           <div class="col-lg-4 text-center">
-            <div class="post-img">
-              <img src="assets/products/1.jpg" alt="" class="img-fluid">
+            <div class="post-img mb-3">
+              <img src="assets/products/7.jpg" alt="" class="img-fluid">
             </div>
               <h4>FILLING MATERIALS</h4>
               <span class='text-secondary'>Filling materials: These are sum of rocks and other hard,
@@ -163,8 +163,8 @@
                 sub-base for driveways and pathways.</span>
           </div>
           <div class="col-lg-4 text-center">
-            <div class="post-img">
-              <img src="assets/products/1.jpg" alt="" class="img-fluid">
+            <div class="post-img mb-3">
+              <img src="assets/products/8.jpg" alt="" class="img-fluid">
             </div>
               <h4>BASECOURSE</h4>
               <span class='text-secondary'>Basecourse: 0-80mm in size. These are mixed
@@ -172,8 +172,8 @@
                 base.</span>
           </div>
           <div class="col-lg-4 text-center">
-            <div class="post-img">
-              <img src="assets/products/1.jpg" alt="" class="img-fluid">
+            <div class="post-img mb-3">
+              <img src="assets/products/11.png" alt="" class="img-fluid">
             </div>
               <h4>CEMENT</h4>
               <span class='text-secondary'>A powdery substance made with calcined lime and clay.
@@ -181,8 +181,8 @@
                 gravel, and water to make concrete.</span>
           </div>
           <div class="col-lg-4 text-center">
-            <div class="post-img">
-              <img src="assets/products/1.jpg" alt="" class="img-fluid">
+            <div class="post-img mb-3">
+              <img src="assets/products/11.jpg" alt="" class="img-fluid">
             </div>
               <h4>PRE-CAST CONCRETE</h4>
               <span class='text-secondary'>Pre-stressed Concrete is a construction product produced by casting concrete

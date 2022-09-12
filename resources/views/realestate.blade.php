@@ -70,6 +70,31 @@
         </div>
         <div class="row justify-content-between gy-4 mt-4">
           <div class="col-lg-12 text-center">
+            <h3>Projects</h3>
+           
+          </div>
+          <div class="col-lg-4 text-left">
+            <div class="post-img mb-3">
+              <img src="assets/img/realestate/2.png" alt="" class="img-fluid">
+            </div>
+              <h4 class='text-center'>Market Mall</h4>
+              <span class='text-secondary text-left'>Based in Ormoc City, Market Mall Ormoc is a 9-storey mixed-use commercial building and hotel with basement parking space.</span> <br>
+          </div>
+          <div class="col-lg-4  text-left">
+            <div class="post-img mb-3">
+              <img src="assets/img/realestate/1.png" alt="" class="img-fluid">
+            </div>
+            <h4 class='text-center'>PMI Tower</h4>
+            <span class='text-secondary'>PMI Tower - Based in Makati City, PMI Tower is a 21 storey mixed-use building which also serve as the head office of the company.</span>
+          </div>
+          <div class="col-lg-4  text-center">
+
+          </div>
+          <div class="row justify-content-between gy-4 mt-4">
+         
+     
+         
+          <div class="col-lg-12 text-center">
             <h3>Corporate Values</h3>
            
           </div>
@@ -98,6 +123,8 @@
             <span class='text-secondary'>"Alone we can do so little; together we can do so much"</span>
           </div>
         </div>
+        </div>
+      
       </div>
     </section>
 

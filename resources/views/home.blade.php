@@ -65,10 +65,37 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-7 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start ">
+        <div class="col-lg-7 d-flex flex-column justify-content-center text-center text-lg-start ">
           <!-- <div  class=""> -->
-              <iframe class="container text-center  " data-aos="zoom-out" height='100%' src="https://www.youtube.com/embed/ww9lJH4QQ5M?autoplay=0&modestbranding=1&showinfo=0&controls=0"  frameborder="1" >
-              </iframe>
+            <div class="position-relative h-100">
+              <div class="slides-1 portfolio-details-slider swiper">
+                <div class="swiper-wrapper align-items-center">
+                  <div class="swiper-slide">
+                    <img src="assets/home/2.png" alt="">
+                  </div>
+                  <div class="swiper-slide">
+                    <img src="assets/home/1.png" alt="">
+                  </div>
+               
+                  <div class="swiper-slide">
+                    <img src="assets/home/3.png" alt="">
+                  </div>
+                  <div class="swiper-slide">
+                    <img src="assets/home/4.png" alt="">
+                  </div>
+                  <div class="swiper-slide">
+                    <img src="assets/home/5.png" alt="">
+                  </div>
+                  <div class="swiper-slide">
+                    <img src="assets/home/6.png" alt="">
+                  </div>
+                </div>
+                <div class="swiper-pagination"></div>
+              </div>
+              <div class="swiper-button-prev"></div>
+              <div class="swiper-button-next"></div>
+    
+            </div>
             <!-- </div> -->
           <!-- </div> -->
         </div>
@@ -109,9 +136,6 @@
                 <li><i class="bi bi-check-circle-fill"></i> We provide PREMIUM SERVICES “Quality Service beyond Expectation”</li>
                 <li><i class="bi bi-check-circle-fill"></i> We work in SYNERGY “Alone we can do so little; Together we can do so much” – (Helen Keller)</li>
               </ul>
-            
-
-         
             </div>
           </div>
         </div>
@@ -158,7 +182,7 @@
               </div>
               <h3>Construction</h3>
               <p>We deliver its unique brand of Engineering Excellence in projects for both PPP and private sectors. As an infrastructure conglomerate, its scope of work includes architectural work, BIM, MEPF, Line and Grade, Earthworks, and property development. </p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+              <a href="{{url('construction')}}" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -170,7 +194,7 @@
               <h3>Real Estate</h3>
               <p>We envision to be a world-class developer of premium developments, forefront in sustainable and innovation to inspire and elevate the quality of life of every Filipino through thoughtfully designed real-estate. 
                 </p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+              <a href="{{url('realestate')}}" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -181,7 +205,7 @@
               </div>
               <h3>Manufacturing</h3>
               <p>One of the leading and largest suppliers, our company aims to make a positive impact through a sustainable and socio-economic business approach to be able to cater to the growing market of construction materials. </p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+              <a href="{{url('manufacturing')}}" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -196,7 +220,7 @@
                 more, the company plans to acquire more vessels to improve
                 currently provide services and to answer the call for increasing
                 demand in the market</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+              <a href="{{url('logistics')}}" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -207,7 +231,7 @@
               </div>
               <h3>Ship Building</h3>
               <p>We provide the first shipyard in Eastern Visayas and the first to utilize marine airbag technology in Visayas province. Build ships with premium quality and innovative designs which are cost effective and affordable to Philippine market. Prompts delivery of vessels, ship building products and ship repair mechanical works and services.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+              <a href="{{url('ship-building')}}" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -218,7 +242,7 @@
               </div>
               <h3>E-Commerce</h3>
               <p>A trailblazer in the industry and the first Filipino-made e-commerce marketplace business solution that seeks to revolutionize the Philippine online and technology where everyone can easily access and experience, the fastest, most accurate, and most reliable quality e-commerce platform.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+              <a href="{{url('e-building')}}" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
