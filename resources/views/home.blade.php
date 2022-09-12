@@ -66,11 +66,7 @@
             </div>
           </div>
         </div>
-<<<<<<< HEAD
         <div class="col-lg-7 col-sm-3 col-md-3 d-flex flex-column justify-content-center text-center text-lg-start ">
-=======
-        <div class="col-lg-7 col-sm-7 col-md-7 d-flex flex-column justify-content-center text-center text-lg-start ">
->>>>>>> c5928dda55ea32d4cc54ea1fdfcf4176c0b7b2a1
           <!-- <div  class=""> -->
             <div class="position-relative h-100">
               <div class="slides-1 portfolio-details-slider swiper">
@@ -83,12 +79,6 @@
                   </div>
                   <div class="swiper-slide">
                     <img src="assets/home/4.png" alt="">
-<<<<<<< HEAD
-                  </div>
-                  <div class="swiper-slide">
-                    <img src="assets/home/5.png" alt="">
-=======
->>>>>>> c5928dda55ea32d4cc54ea1fdfcf4176c0b7b2a1
                   </div>
                 </div>
                 <div class="swiper-pagination"></div>
