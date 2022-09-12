@@ -47,7 +47,7 @@
       </div>
 
     </div>
-  </section><!-- End Portfolio Details Section -->
+  </section>
 
   </main><!-- End #main -->
 

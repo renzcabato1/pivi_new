@@ -1351,7 +1351,8 @@ section {
 }
 
 .portfolio-details .portfolio-info .btn-visit:hover {
-  background: #009d8b;
+  background: #e6faff;
+  color:black;
 }
 
 .portfolio-details .portfolio-description h2 {

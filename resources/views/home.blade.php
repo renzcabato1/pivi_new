@@ -177,7 +177,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="service-item position-relative">
               <div class="icon">
-                <i class="bi bi-easel"></i>
+                <i class="bi bi-house-fill"></i>
               </div>
               <h3>Manufacturing</h3>
               <p>One of the leading and largest suppliers, our company aims to make a positive impact through a sustainable and socio-economic business approach to be able to cater to the growing market of construction materials. </p>
@@ -188,7 +188,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="service-item position-relative">
               <div class="icon">
-                <i class="bi bi-bounding-box-circles"></i>
+                <i class="bi bi-calendar4-week"></i>
               </div>
               <h3>Logistics</h3>
               <p>Provide past deliveries without delay and other premium
@@ -203,7 +203,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="service-item position-relative">
               <div class="icon">
-                <i class="bi bi-calendar4-week"></i>
+                <i class="bi bi-gear"></i>
               </div>
               <h3>Ship Building</h3>
               <p>We provide the first shipyard in Eastern Visayas and the first to utilize marine airbag technology in Visayas province. Build ships with premium quality and innovative designs which are cost effective and affordable to Philippine market. Prompts delivery of vessels, ship building products and ship repair mechanical works and services.</p>
