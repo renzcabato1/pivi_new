@@ -518,7 +518,7 @@ section {
 
   .navbar a,
   .navbar a:focus {
-    color:white;
+    /* color:white; */
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -526,7 +526,7 @@ section {
     font-family: var(--font-primary);
     font-size: 15px;
     font-weight: 600;
-    color: rgba(255, 255, 255, 0.7);
+    color: #000;
     white-space: nowrap;
     transition: 0.3s;
   }
@@ -568,7 +568,6 @@ section {
     margin: 10px 20px;
     transition: all 0.5s ease-in-out;
     background-color: white;
-    border: 1px solid black;
   }
 
   .navbar .dropdown>.dropdown-active,
