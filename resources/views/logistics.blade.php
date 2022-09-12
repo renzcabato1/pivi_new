@@ -93,7 +93,10 @@
             <h4 class='text-center'>IMC 17</h4>
           </div>
           <div class="col-lg-4  text-center">
-
+            <div class="post-img mb-3">
+            <img src="assets/img/logistics/1.png" alt="" class="img-fluid">
+          </div>
+          <h4 class='text-center'>LCT IMC 01</h4>
           </div>
        
         </div>
