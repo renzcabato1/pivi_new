@@ -65,7 +65,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-7 d-flex flex-column justify-content-center text-center text-lg-start ">
+        <div class="col-lg-7 col-sm-3 col-md-3 d-flex flex-column justify-content-center text-center text-lg-start ">
           <!-- <div  class=""> -->
             <div class="position-relative h-100">
               <div class="slides-1 portfolio-details-slider swiper">
@@ -77,7 +77,7 @@
                     <img src="assets/home/6.png" alt="">
                   </div>
                   <div class="swiper-slide">
-                    <img src="assets/img/logistics/3.png" alt="">
+                    <img src="assets/home/4.png" alt="">
                   </div>
                 </div>
                 <div class="swiper-pagination"></div>

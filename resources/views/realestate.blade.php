@@ -34,11 +34,14 @@
                     <div class="swiper-wrapper align-items-center">
         
                       <div class="swiper-slide">
-                        <img src="assets/img/realestate/1.png" alt="">
+                        <img src="assets/img/realestate/4.png" alt="">
                       </div>
         
                       <div class="swiper-slide">
-                        <img src="assets/img/realestate/2.png" alt="">
+                        <img src="assets/img/realestate/5.png" alt="">
+                      </div>
+                      <div class="swiper-slide">
+                        <img src="assets/img/realestate/6.png" alt="">
                       </div>
         
         
@@ -75,20 +78,24 @@
           </div>
           <div class="col-lg-4 text-left">
             <div class="post-img mb-3">
-              <img src="assets/img/realestate/2.png" alt="" class="img-fluid">
+              <img src="assets/img/realestate/5.png" alt="" class="img-fluid">
             </div>
               <h4 class='text-center'>Market Mall</h4>
-              <span class='text-secondary text-left'>Based in Ormoc City, Market Mall Ormoc is a 9-storey mixed-use commercial building and hotel with basement parking space.</span> <br>
+              {{-- <span class='text-secondary text-left'>Based in Ormoc City, Market Mall Ormoc is a 9-storey mixed-use commercial building and hotel with basement parking space.</span> <br> --}}
           </div>
           <div class="col-lg-4  text-left">
             <div class="post-img mb-3">
-              <img src="assets/img/realestate/1.png" alt="" class="img-fluid">
+              <img src="assets/img/realestate/4.png" alt="" class="img-fluid">
             </div>
             <h4 class='text-center'>PMI Tower</h4>
-            <span class='text-secondary'>PMI Tower - Based in Makati City, PMI Tower is a 21 storey mixed-use building which also serve as the head office of the company.</span>
+            {{-- <span class='text-secondary'>PMI Tower - Based in Makati City, PMI Tower is a 21 storey mixed-use building which also serve as the head office of the company.</span> --}}
           </div>
           <div class="col-lg-4  text-center">
-
+            <div class="post-img mb-3">
+              <img src="assets/img/realestate/6.png" alt="" class="img-fluid">
+            </div>
+            <h4 class='text-center'>Mondrian</h4>
+            {{-- <span class='text-secondary'>PMI Tower - Based in Makati City, PMI Tower is a 21 storey mixed-use building which also serve as the head office of the company.</span> --}}
           </div>
           <div class="row justify-content-between gy-4 mt-4">
          

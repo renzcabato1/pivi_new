@@ -574,7 +574,7 @@ section {
   }
 
   .mobile-nav-show {
-    color: rgba(255, 255, 255, 0.6);
+    color: black;
     font-size: 28px;
     cursor: pointer;
     line-height: 0;
@@ -584,7 +584,7 @@ section {
   }
 
   .mobile-nav-hide {
-    color: #fff;
+    color: black;
     font-size: 32px;
     cursor: pointer;
     line-height: 0;
@@ -607,7 +607,7 @@ section {
     content: "";
     position: fixed;
     inset: 0;
-    background: rgba(0, 106, 93, 0.8);
+    background: #e6faff;
     z-index: 9996;
   }
 }
