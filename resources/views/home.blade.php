@@ -3,8 +3,9 @@
 @section('content')
 <section id="hero" class="hero">
     <div class="position-relative">
+      <section id="portfolio-details" class="portfolio-details">
       <div class="row gy-5" data-aos="fade-in">
-        <div class="col-lg-5 order-1 order-lg-2">
+        <div class="col-lg-5 col-md-5 col-sm-5 order-1 order-lg-2">
           <div class="row pt-3"> 
             <div class="col-lg-12 col-md-12 col-sm-12 text-center">
               <img src="assets/img/logo_main.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100">
@@ -12,7 +13,7 @@
             </div>
           </div>
           <div class="row pt-3"> 
-            <div class="col-lg-12 col-md-12 col-sm-12 text-dark">
+            <div class="col-lg-12 col-md-12 col-sm-12 text-dark p-5">
               <h3 class="text-dark">Premium Infinite Ventures <span>Inc.</span></h3>
               <p class="text-dark">Premium Infinite Ventures Inc. (PIVI) is a Philippines-based management corporation created exclusively to provide management, administrative, and corporate support and services for the holdings corporations owned by Francis Lloyd T. Chua namely Premium Capital Holdings Inc., Premium Technology Holdings Inc., Industry Holdings and
                 Development Corp. and its subsidiaries, affiliates and other related
@@ -65,7 +66,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-7 d-flex flex-column justify-content-center text-center text-lg-start ">
+        <div class="col-lg-7 col-sm-7 col-md-7 d-flex flex-column justify-content-center text-center text-lg-start ">
           <!-- <div  class=""> -->
             <div class="position-relative h-100">
               <div class="slides-1 portfolio-details-slider swiper">
@@ -77,7 +78,7 @@
                     <img src="assets/home/6.png" alt="">
                   </div>
                   <div class="swiper-slide">
-                    <img src="assets/img/logistics/3.png" alt="">
+                    <img src="assets/home/4.png" alt="">
                   </div>
                 </div>
                 <div class="swiper-pagination"></div>
@@ -89,8 +90,10 @@
             <!-- </div> -->
           <!-- </div> -->
         </div>
+        
       
       </div>
+      </section>
   
     </div>
 
