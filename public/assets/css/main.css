@@ -493,6 +493,7 @@ section {
 --------------------------------------------------------------*/
 @media (max-width: 1279px) {
   .navbar {
+    color:white;
     position: fixed;
     top: 0;
     right: -100%;
@@ -504,11 +505,12 @@ section {
   }
 
   .navbar ul {
+    color:white;
     position: absolute;
     inset: 0;
     padding: 50px 0 10px 0;
     margin: 0;
-    background: rgba(0, 131, 116, 0.9);
+    background: white;
     overflow-y: auto;
     transition: 0.3s;
     z-index: 9998;
@@ -516,6 +518,7 @@ section {
 
   .navbar a,
   .navbar a:focus {
+    color:white;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -548,13 +551,13 @@ section {
     padding: 8px 20px;
     border-radius: 4px;
     margin: 15px;
-    color: #fff;
+    color: black;
   }
 
   .navbar .getstarted:hover,
   .navbar .getstarted:focus:hover {
-    color: #fff;
-    background: rgba(0, 131, 116, 0.8);
+    color: black;
+    background: white;
   }
 
   .navbar .dropdown ul,
@@ -564,8 +567,8 @@ section {
     padding: 10px 0;
     margin: 10px 20px;
     transition: all 0.5s ease-in-out;
-    background-color: #007466;
-    border: 1px solid #006459;
+    background-color: white;
+    border: 1px solid black;
   }
 
   .navbar .dropdown>.dropdown-active,
