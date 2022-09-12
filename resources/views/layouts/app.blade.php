@@ -5,13 +5,13 @@
     
         <title>{{ config('app.name', 'Laravel') }}</title>
         <meta content="Holdings, Construction Company, Shipping, Logistics, Ship Building" name="keywords">
-        <meta content="Premium Infinite Ventures" property="og:title">
+        <meta content="Premium Infinite Ventures Inc." property="og:title">
         <meta content="Holdings, Construction Company, Shipping, Logistics, Ship Building" property="og:description">
         <meta content="{{ asset('assets/img/PIVI_FINAL_PNG-02.png') }}" property="og:image">
             <!-- Favicons -->
         <link href="{{ asset('assets/img/PIVI_FINAL_PNG-02.png') }}" rel="icon">
         <link href="{{ asset('assets/img/PIVI_FINAL_PNG-02.png') }}" rel="apple-touch-icon">
-
+        <meta content="https://pivi.com.ph/" property="og:url">
         <!-- Google Fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
