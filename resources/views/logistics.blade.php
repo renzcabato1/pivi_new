@@ -82,15 +82,15 @@
           </div>
           <div class="col-lg-4 text-left">
             <div class="post-img mb-3">
-              <img src="assets/img/logistics/1.png" alt="" class="img-fluid">
+              <img src="assets/img/logistics/3.png" alt="" class="img-fluid">
             </div>
-              <h4 class='text-center'>BARGE IMC 12</h4>
+              <h4 class='text-center'>MV IMC 16</h4>
           </div>
           <div class="col-lg-4  text-left">
             <div class="post-img mb-3">
-              <img src="assets/img/logistics/2.png" alt="" class="img-fluid">
+              <img src="assets/img/logistics/4.png" alt="" class="img-fluid">
             </div>
-            <h4 class='text-center'>MT IMC 02</h4>
+            <h4 class='text-center'>IMC 17</h4>
           </div>
           <div class="col-lg-4  text-center">
 
