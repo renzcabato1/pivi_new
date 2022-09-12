@@ -79,6 +79,9 @@
                   <div class="swiper-slide">
                     <img src="assets/home/4.png" alt="">
                   </div>
+                  <div class="swiper-slide">
+                    <img src="assets/home/5.png" alt="">
+                  </div>
                 </div>
                 <div class="swiper-pagination"></div>
               </div>
