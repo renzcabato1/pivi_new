@@ -5,7 +5,7 @@
   <div class="position-relative">
     <section id="portfolio-details" class="portfolio-details">
       <div class="row gy-5" data-aos="fade-in">
-        <div class="col-lg-5 col-md-5 col-sm-5 order-1 order-lg-2 p-5">
+        <div class="col-lg-5 col-md-5 col-sm-5 order-1 order-lg-2 pr-5">
           <div class="row pt-3"> 
             <div class="col-lg-12 col-md-12 col-sm-12 text-center">
               <img src="assets/img/logo_main.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100">
@@ -15,7 +15,7 @@
             <div class="col-lg-12 col-md-12 col-sm-12 text-dark">
               {{-- <h3 class="text-dark p-2 text-center">Premium Infinite Ventures <span>Inc.</span></h3> --}}
               <h5 class="text-dark p-2 text-center">Message from the<b> CHAIRMAN / CEO</b></h5>
-              <p class="text-dark text-justify p-2">In today’s highly competitive business
+              <p class="text-dark text-justify">In today’s highly competitive business
                 world, our strongest form of action
                 is through leadership. As a company
                 that specializes in land developments,

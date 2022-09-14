@@ -113,6 +113,7 @@
               <li><a href="{{url('logistics')}}">Logistics</a></li>
               <li><a href="{{url('ship-building')}}">Ship Building</a></li>
               <li><a href="{{url('e-commerce')}}">E-Commerce</a></li>
+              <li><a href="{{url('mining')}}">E-Commerce</a></li>
                     
                  
           </ul>
