@@ -37,6 +37,9 @@ Route::get('/ship-building', function () {
 Route::get('/e-commerce', function () {
     return view('e_commerce');
 });
+Route::get('/mining', function () {
+    return view('mining');
+});
 
 Auth::routes();
 
