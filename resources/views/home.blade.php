@@ -3,7 +3,7 @@
 @section('content')
 <section id="hero" class="hero">
   <div class="position-relative">
-    <section id="portfolio-details" class="portfolio-details">
+    <section id="hero-details" class="hero-details">
       <div class="row gy-5" data-aos="fade-in">
         <div class="col-lg-5 col-md-5 col-sm-5 order-1 order-lg-2 pr-5">
           <div class="row pt-3"> 

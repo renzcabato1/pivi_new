@@ -52,6 +52,9 @@ section {
   padding: 60px 0;
   overflow: hidden;
 }
+section .hero-details{
+  padding:5px 0;
+}
 .video {
   padding: 15px 0 0 15px;
   overflow: hidden;
