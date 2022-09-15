@@ -11,7 +11,7 @@
               <img src="assets/img/logo_main.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100">
             </div>
           </div>
-          <div class="row"> 
+          <div class="row" class="message"> 
             <div class="col-lg-12 col-md-12 col-sm-12 text-dark">
               {{-- <h3 class="text-dark p-2 text-center">Premium Infinite Ventures <span>Inc.</span></h3> --}}
               <h5 class="text-dark p-2 text-center">Message from the<b> CHAIRMAN / CEO</b></h5>
@@ -30,7 +30,7 @@
               </p>
             </div>
           </div>
-          <div class="row">
+          <div class="row" class="icons">
             <h3 class="text-dark text-center col-12 mb-3">Our Ventures</h3>
             <div class="col-lg-3 col-md-3 col-sm-3 text-center">
               <a href="{{url('construction')}}">
@@ -57,7 +57,7 @@
                 <span class="text-dark">Logistics</span>
               </a>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-4 d-flex justify-content-end mt-2">
+            <div class="col-lg-4 col-md-4 col-sm-4 d-flex justify-content-end mt-2 ship-bldg">
               <a href="{{url('ship-building')}}">
                 <img src="assets/img/images/ship_builders.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> <br>
                 <span class="text-dark">Ship Building</span>
@@ -69,7 +69,7 @@
                 <span class="text-dark">E-Commerce</span>
               </a>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-4 text-center d-flex justify-content-start mt-2">
+            <div class="col-lg-4 col-md-4 col-sm-4 text-center d-flex justify-content-start mt-2 mining-icon">
               <a href="{{url('mining')}}">
                 <img src="assets/img/images/mining.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"><br>
                 <span class="text-dark">Mining</span>
