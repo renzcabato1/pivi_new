@@ -52,6 +52,9 @@ section {
   padding: 60px 0;
   overflow: hidden;
 }
+section .hero-details{
+  padding-top: 5px;
+}
 .video {
   padding: 15px 0 0 15px;
   overflow: hidden;
@@ -1215,20 +1218,21 @@ section {
     font-size: 14px;
     margin: 0 5px;
   } 
-   .message p{
+  .message p{
     padding: 1rem !important;
     text-align: justify;
   }
-  /* .message p{
-    padding: 1rem !important;
-    text-align: justify;
-  } */
-  /* .icons .ship-bldg{
+  .icons .ship-bldg{
     justify-content: center !important;
   }  
   .icons .mining-icon{
     justify-content: center !important;
-  }   */
+  } 
+  .swiper-slide img{
+    height: 100%;
+    width:100%;
+  }
+} 
 
 .portfolio .portfolio-wrap {
   box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);

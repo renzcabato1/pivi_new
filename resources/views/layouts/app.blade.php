@@ -62,6 +62,7 @@
                       <li><a href="{{url('logistics')}}">Logistics</a></li>
                       <li><a href="{{url('ship-building')}}">Ship Building</a></li>
                       <li><a href="{{url('e-commerce')}}">E-Commerce</a></li>
+                      <li><a href="{{url('mining')}}">Mining</a></li>
                     </ul>
                   </li>
                   <li><a class="text-secondary" href="{{url('/contact#contact')}}">Contact</a></li>
@@ -82,8 +83,8 @@
   <footer id="footer" class="footer">
 
     <div class="container">
-      <div class="row gy-4">
-        <div class="col-lg-5 col-md-12 footer-info">
+      <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-6 footer-info">
           <a href="index.html" class="logo d-flex align-items-center">
             <span> <img src="assets/img/logo_main.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"></span>
           </a>
@@ -91,35 +92,27 @@
             Development Corp. and its subsidiaries, affiliates and other related
             entities.
           </p>
-          <div class="social-links d-flex mt-4">
+          <div class="social-links d-flex mt-4 mb-4">
             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
             <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
             <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
           </div>
         </div>
-
-        <div class="col-lg-2 col-6 footer-links">
-        
-        </div>
-
-        <div class="col-lg-2 col-6 footer-links">
+        <div class="col-lg-3 col-md-3 col-sm-3 footer-links">
           <h4>Our Services</h4>
-          <ul>
-           
+            <ul>
               <li><a href="{{url('construction')}}">Construction</a></li>
-              <li><a href="{{url('realestate')}}">Real Estate</a></li>
+              <li><a href="{{url('realestate')}}">Real Estate</li>
               <li><a href="{{url('manufacturing')}}">Manufacturing</a></li>
-              <li><a href="{{url('logistics')}}">Logistics</a></li>
+              <li><a href="{{url('logistics')}}">Logistics</li>
               <li><a href="{{url('ship-building')}}">Ship Building</a></li>
               <li><a href="{{url('e-commerce')}}">E-Commerce</a></li>
-              <li><a href="{{url('mining')}}">E-Commerce</a></li>
-                    
-                 
-          </ul>
+              <li><a href="{{url('mining')}}">Mining</a></li>
+            </ul>
         </div>
 
-        <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+        <div class="col-lg-3 col-md-3 col-sm-3 footer-contact">
           <h4>Contact Us</h4>
           <p>
             17th Floor PMI Tower. Corner<br>
