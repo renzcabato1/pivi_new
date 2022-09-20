@@ -4,7 +4,7 @@
 <section id="hero" class="hero">
   <div class="position-relative">
     <div class="row gy-5" data-aos="fade-in">
-      <div class="col-lg-8 order-2 order-lg-1 d-flex flex-column text-center text-lg-start">
+      <div class="col-lg-8 col-md-12 order-2 order-lg-1 d-flex flex-column text-center text-lg-start">
         <div class="d-flex justify-content-center">
           <section id="portfolio-details" class="portfolio-details">
             <div class="container" data-aos="fade-up">
@@ -33,14 +33,65 @@
           </section>
         </div>
       </div>
-      <div class="col-lg-4 order-1 order-lg-2 row-message">
-          <div class="row msg">
-            <div class="p-3">
-            <div class="col-lg-12 col-md-12 col-sm-12 text-center pt-2">
-              <img src="assets/img/logo_main.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100">
+      <div class="col-lg-4 col-md-12 order-1 order-lg-2 row-message">
+        <div class="col-lg-12 col-md-12 col-sm-12 text-center pt-2">
+          <img src="assets/img/logo_main.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100">
+        </div>
+        <div class="row icons mb-3">
+            <h3 class="text-dark text-center col-12 mb-3">Our Ventures</h3>
+            <div class="col-3 text-center d-flex justify-content-center">
+              <a href="{{url('construction')}}">
+              <img src="assets/img/images/construction.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> 
+              <br>
+              <span>Construction</span>
+              </a>
             </div>
+            <div class="col-3 text-center d-flex justify-content-center">
+              <a href="{{url('realestate')}}">
+                <img src="assets/img/images/Realestate.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> 
+                <br>
+                <span>Real State</span>
+              </a>
+            </div>
+            <div class="col-3 text-center d-flex justify-content-center">
+              <a href="{{url('manufacturing')}}">
+                <img src="assets/img/images/Aggregates.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> 
+                <br>
+                <span>Aggregates</span>
+              </a>
+            </div>
+            <div class="col-3 text-center d-flex justify-content-center">
+              <a href="{{url('logistics')}}">
+                <img src="assets/img/images/logistics.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> 
+                <br>
+                <span>Logistics</span>
+              </a>
+            </div>
+            <div class="col-4 mt-2 ship-bldg d-flex justify-content-center">
+              <a href="{{url('ship-building')}}">
+                <img src="assets/img/images/ship_builders.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100">
+                <br>
+                <span>Sip Building</span>
+              </a>
+            </div>
+            <div class="col-4 col-xs-4 mt-2 d-flex justify-content-center">
+              <a href="{{url('e-commerce')}}">
+                <img src="assets/img/images/e-commerce.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> 
+                <br>
+                <span>E-Commerce</span>
+              </a>
+            </div>
+            <div class="col-4 mt-2 mining-icon text-center d-flex justify-content-center">
+              <a href="{{url('mining')}}">
+                <img src="assets/img/images/mining.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100">
+                <br>
+                <span>Mining</span>
+              </a>
+            </div>
+          </div>
+          <div class="row msg p-3">
             <h5 class="text-dark p-2 text-center">Message from the<b> CHAIRMAN / CEO</b></h5>
-              <p class="text-dark text-justify"  style="text-indent: 30px;">In today’s highly competitive business
+              <p class="text-dark text-justify p-3"  style="text-indent: 30px;">In today’s highly competitive business
                   world, our strongest form of action
                   is through leadership. As a company
                   that specializes in land developments,
@@ -53,52 +104,6 @@
                   in technology to achieve real time
                   superior long-term results. <a href="" data-toggle="modal" data-target="#exampleModal">Read more...</a>
               </p>
-          </div>
-        </div>
-        <div class="row icons">
-          <h3 class="text-dark text-center col-12 mb-3 ">Our Ventures</h3>
-          <div class="col-3 text-center d-flex justify-content-center">
-            <a href="{{url('construction')}}">
-            <img src="assets/img/images/construction.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> <br>
-         
-            </a>
-          </div>
-          <div class="col-3 text-center d-flex justify-content-center">
-            <a href="{{url('realestate')}}">
-              <img src="assets/img/images/Realestate.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> <br>
-             
-            </a>
-          </div>
-          <div class="col-3 text-center d-flex justify-content-center">
-            <a href="{{url('manufacturing')}}">
-              <img src="assets/img/images/Aggregates.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> <br>
-              
-            </a>
-          </div>
-          <div class="col-3 text-center d-flex justify-content-center">
-            <a href="{{url('logistics')}}">
-              <img src="assets/img/images/logistics.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> <br>
-              
-            </a>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-4 text-center d-flex justify-content-end mt-2 ship-bldg">
-            <a href="{{url('ship-building')}}">
-              <img src="assets/img/images/ship_builders.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> <br>
-              
-            </a>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-4 d-flex justify-content-center mt-2">
-            <a href="{{url('e-commerce')}}">
-              <img src="assets/img/images/e-commerce.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> <br>
-             
-            </a>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-4 text-center d-flex justify-content-start mt-2 mining-icon">
-            <a href="{{url('mining')}}">
-              <img src="assets/img/images/mining.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"><br>
-           
-            </a>
-          </div>
         </div>
       </div>
     </div>
