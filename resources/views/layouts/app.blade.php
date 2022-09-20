@@ -43,12 +43,12 @@
         </section>
         <header id="header" class="header d-flex align-items-center header-bottom-border">
 
-            <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
-              <a href="{{url('/')}}" class="logo d-flex align-items-center">
+            <div class="container-fluid container-xl d-flex align-items-center">
+              {{-- <a href="{{url('/')}}" class="logo d-flex align-items-center"> --}}
                 <!-- Uncomment the line below if you also wish to use an image logo -->
-                <img src="assets/img/logo.png" alt="">
+                {{-- <img src="assets/img/logo.png" alt=""> --}}
                 <!-- <h1>Impact<span>.</span></h1> -->
-              </a>
+              {{-- </a> --}}
               <nav id="navbar" class="navbar">
                 <ul class="text-dark">
                   <li class="text-dark"><a href="{{url('/')}}" class="text-secondary">Home</a></li>
