@@ -239,14 +239,36 @@ section .hero-details{
   [data-aos-delay] {
     transition-delay: 0 !important;
   }
+
 }
-@media screen and (min-width: 768px) {
-  /* .col-sm-5, .col-md-5, .col-lg-5{                                                                                                                                                                                                                                                                                                                                                         
-    width: 100%;
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)
+and (-webkit-min-device-pixel-ratio: 1)  {
+
+  .portfolio-details .portfolio-details-slider img{
+    width: 100% !important;
+    height: 100% !important;
   }
-  .col-sm-7, .col-md-7, .col-lg-7{
+  .order-lg-2{
+    width: 100% !important;
+  }
+  .message{ 
+    width: 100% !important;
+    height:100% !important;
+  }
+  .row-message{
+    display: flex;
+    flex-flow: column-reverse;
+  }
+  /* .row-message .icons{
     width: 100%;
+    display: flex;
+    flex-flow: row-reverse;
   } */
+  .row-message .icons{
+    padding-top: 60px;
+  }
 }
 
 
