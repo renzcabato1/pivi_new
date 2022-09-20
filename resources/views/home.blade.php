@@ -37,7 +37,7 @@
         <div class="col-lg-12 col-md-12 col-sm-12 text-center pt-2">
           <img src="assets/img/logo_main.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100">
         </div>
-        <div class="row icons mb-3">
+        <div class="row icons mt-3 mb-3">
             <h3 class="text-dark text-center col-12 mb-3">Our Ventures</h3>
             <div class="col-3 text-center d-flex justify-content-center">
               <a href="{{url('construction')}}">
@@ -91,7 +91,7 @@
           </div>
           <div class="row msg p-3">
             <h5 class="text-dark p-2 text-center">Message from the<b> CHAIRMAN / CEO</b></h5>
-              <p class="text-dark text-justify p-3"  style="text-indent: 30px;">In today’s highly competitive business
+              <p class="text-dark text-justify"  style="text-indent: 30px;">In today’s highly competitive business
                   world, our strongest form of action
                   is through leadership. As a company
                   that specializes in land developments,
