@@ -7,18 +7,18 @@
       <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column text-center text-lg-start">
         <div class="d-flex justify-content-center">
           <section id="portfolio-details" class="portfolio-details">
-            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div id="carouselExampleControls" class="carousel slide carousel-fade" data-ride="carousel">
               <div class="carousel-inner">
-                <div class="carousel-item active">
+                <div class="carousel-item overlay active">
                   <img class="d-block w-100" src="assets/home/2.png" alt="First slide">
                 </div>
-                <div class="carousel-item">
+                <div class="carousel-item overlay">
                   <img class="d-block w-100" src="assets/home/6.png" alt="Second slide">
                 </div>
-                <div class="carousel-item">
+                <div class="carousel-item overlay">
                   <img class="d-block w-100" src="assets/home/4.png" alt="Third slide">
                 </div>
-                <div class="carousel-item">
+                <div class="carousel-item overlay">
                   <img class="d-block w-100" src="assets/home/5.1.png" alt="Third slide">
                 </div>
               </div>
@@ -40,7 +40,7 @@
         </div>
         <div class="container">
           <div class="row">
-            <h3 class="text-dark text-center col-12 mb-3">Our Ventures</h3>
+            <h3 class="text-dark text-center col-12 mb-3 pt-2">Our Ventures</h3>
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center d-flex justify-content-center">
               <a href="{{url('construction')}}">
                 <img src="assets/img/images/construction.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100" > 
@@ -96,7 +96,7 @@
         <div class="row">
           <div class="col-lg-12 col-md-12 col-sm-12 msg">
           <h5 class="text-dark pt-3 text-center">Message from the<b> CHAIRMAN / CEO</b></h5>
-            <p class="text-dark text-justify"  style="text-indent: 30px;">In today’s highly competitive business
+            <p class="text-dark text-justify pr-5" style="text-indent: 30px;">In today’s highly competitive business
                 world, our strongest form of action
                 is through leadership. As a company
                 that specializes in land developments,
