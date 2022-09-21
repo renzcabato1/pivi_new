@@ -4,84 +4,87 @@
 <section id="hero" class="hero">
   <div class="position-relative">
     <div class="row gy-5" data-aos="fade-in">
-      <div class="col-lg-8 col-md-12 order-2 order-lg-1 d-flex flex-column text-center text-lg-start">
+      <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column text-center text-lg-start">
         <div class="d-flex justify-content-center">
           <section id="portfolio-details" class="portfolio-details">
-            <div class="container" data-aos="fade-up">
-              <div class="position-relative h-100">
-                <div class="slides-1 portfolio-details-slider swiper">
-                  <div class="swiper-wrapper align-items-center">
-                    <div class="swiper-slide">
-                      <img src="assets/home/2.png" alt="">
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="assets/home/6.png" alt="">
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="assets/home/4.png" alt="" >
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="assets/home/5.1.png" alt="">
-                    </div>
-                  </div>
-                  <div class="swiper-pagination"></div>
-                </div>
-                <div class="swiper-button-prev"></div>
-                <div class="swiper-button-next"></div>
+          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img class="d-block w-100" src="assets/home/2.png" alt="First slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="assets/home/6.png" alt="Second slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="assets/home/4.png" alt="Third slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="assets/home/5.1.png" alt="Third slide">
               </div>
             </div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
           </section>
         </div>
       </div>
-      <div class="col-lg-4 col-md-12 order-1 order-lg-2 row-message">
+      <div class="col-lg-6 order-1 order-lg-2 row-message">
         <div class="col-lg-12 col-md-12 col-sm-12 text-center pt-2">
           <img src="assets/img/logo_main.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100">
         </div>
-        <div class="row icons mt-3 mb-3">
+        <div class="container">
+          <div class="row">
             <h3 class="text-dark text-center col-12 mb-3">Our Ventures</h3>
-            <div class="col-3 text-center d-flex justify-content-center">
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center d-flex justify-content-center">
               <a href="{{url('construction')}}">
-              <img src="assets/img/images/construction.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> 
-              <br>
-              <span>Construction</span>
+                <img src="assets/img/images/construction.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100" > 
+                <br>
+                <span>Construction</span>
               </a>
             </div>
-            <div class="col-3 text-center d-flex justify-content-center">
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center d-flex justify-content-center">
               <a href="{{url('realestate')}}">
-                <img src="assets/img/images/Realestate.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> 
+                <img src="assets/img/images/Realestate.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100" > 
                 <br>
                 <span>Real State</span>
               </a>
             </div>
-            <div class="col-3 text-center d-flex justify-content-center">
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center d-flex justify-content-center">
               <a href="{{url('manufacturing')}}">
-                <img src="assets/img/images/Aggregates.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> 
+                <img src="assets/img/images/Aggregates.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100" > 
                 <br>
                 <span>Aggregates</span>
               </a>
             </div>
-            <div class="col-3 text-center d-flex justify-content-center">
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center d-flex justify-content-center">
               <a href="{{url('logistics')}}">
-                <img src="assets/img/images/logistics.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> 
+                <img src="assets/img/images/logistics.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100" > 
                 <br>
                 <span>Logistics</span>
               </a>
             </div>
-            <div class="col-4 mt-2 ship-bldg d-flex justify-content-center">
+
+            <div class="col-lg-4 ol-md-4 col-sm-4 col-xs-12 mt-2 ship-bldg d-flex justify-content-center">
               <a href="{{url('ship-building')}}">
                 <img src="assets/img/images/ship_builders.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100">
                 <br>
-                <span>Sip Building</span>
+                <span>Ship Building</span>
               </a>
             </div>
-            <div class="col-4 col-xs-4 mt-2 d-flex justify-content-center">
+            <div class="col-lg-4 ol-md-4 col-sm-4 col-xs-12 mt-2 d-flex justify-content-center">
               <a href="{{url('e-commerce')}}">
                 <img src="assets/img/images/e-commerce.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100"> 
                 <br>
                 <span>E-Commerce</span>
               </a>
             </div>
-            <div class="col-4 mt-2 mining-icon text-center d-flex justify-content-center">
+            <div class="col-lg-4 ol-md-4 col-sm-4 col-xs-12 mt-2 mining-icon text-center d-flex justify-content-center">
               <a href="{{url('mining')}}">
                 <img src="assets/img/images/mining.png" class="img-fluid"  data-aos="zoom-out" data-aos-delay="100">
                 <br>
@@ -89,21 +92,24 @@
               </a>
             </div>
           </div>
-          <div class="row msg p-3">
-            <h5 class="text-dark p-2 text-center">Message from the<b> CHAIRMAN / CEO</b></h5>
-              <p class="text-dark text-justify"  style="text-indent: 30px;">In today’s highly competitive business
-                  world, our strongest form of action
-                  is through leadership. As a company
-                  that specializes in land developments,
-                  reclamations, construction of roads,
-                  ports, airports and bridges all over the
-                  country, we exemplify excellence by
-                  providing limitless possibilities and
-                  innovative construction solutions while
-                  keeping up with the rapid advances
-                  in technology to achieve real time
-                  superior long-term results. <a href="" data-toggle="modal" data-target="#exampleModal">Read more...</a>
-              </p>
+        </div>
+        <div class="row">
+          <div class="col-lg-12 col-md-12 col-sm-12 msg">
+          <h5 class="text-dark pt-3 text-center">Message from the<b> CHAIRMAN / CEO</b></h5>
+            <p class="text-dark text-justify"  style="text-indent: 30px;">In today’s highly competitive business
+                world, our strongest form of action
+                is through leadership. As a company
+                that specializes in land developments,
+                reclamations, construction of roads,
+                ports, airports and bridges all over the
+                country, we exemplify excellence by
+                providing limitless possibilities and
+                innovative construction solutions while
+                keeping up with the rapid advances
+                in technology to achieve real time
+                superior long-term results. <a href="" data-toggle="modal" data-target="#exampleModal">Read more...</a>
+            </p>
+          </div>
         </div>
       </div>
     </div>
@@ -178,8 +184,31 @@
   </div>
 </div>
 <main id="main">
-
   <!-- ======= About Us Section ======= -->
+  <section id="message" class="message" style="display:none;">
+    <div class="container" data-aos="fade-up>
+      <div class="row msg">
+          <div class="section-header pb-5">
+            <h2>Message from the <b>Chairman / CEO</b> </h2>
+          </div>
+          <p class="text-dark text-justify"  style="text-indent: 30px;">In today’s highly competitive business
+              world, our strongest form of action
+              is through leadership. As a company
+              that specializes in land developments,
+              reclamations, construction of roads,
+              ports, airports and bridges all over the
+              country, we exemplify excellence by
+              providing limitless possibilities and
+              innovative construction solutions while
+              keeping up with the rapid advances
+              in technology to achieve real time
+              superior long-term results. <a href="" data-toggle="modal" data-target="#exampleModal">Read more...</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  
   <section id="about" class="about">
     <div class="container" data-aos="fade-up">
 
