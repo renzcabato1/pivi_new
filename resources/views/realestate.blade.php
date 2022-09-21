@@ -29,30 +29,27 @@
         <div class="row justify-content-between gy-4 mt-4">
   
           <div class="col-lg-6">
-              <div class="position-relative h-100">
-                  <div class="slides-1 portfolio-details-slider swiper">
-                    <div class="swiper-wrapper align-items-center">
-        
-                      <div class="swiper-slide">
-                        <img src="assets/img/realestate/4.png" alt="">
-                      </div>
-        
-                      <div class="swiper-slide">
-                        <img src="assets/img/realestate/5.png" alt="">
-                      </div>
-                      <div class="swiper-slide">
-                        <img src="assets/img/realestate/6.png" alt="">
-                      </div>
-        
-        
-                    </div>
-                    <div class="swiper-pagination"></div>
-                  </div>
-                  <div class="swiper-button-prev"></div>
-                  <div class="swiper-button-next"></div>
-        
+          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img class="d-block w-100" src="assets/img/realestate/4.png" alt="First slide">
                 </div>
-        
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="assets/img/realestate/5.png" alt="Second slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="assets/img/realestate/6.png" alt="Third slide">
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
           </div>
   
           <div class="col-lg-6">
