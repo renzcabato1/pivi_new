@@ -52,7 +52,7 @@
 								<a href="{{ url('realestate') }}">
 									<img src="assets/img/images/Realestate.png" class="img-fluid" data-aos="zoom-out" data-aos-delay="100">
 									<br>
-									<span>Real State</span>
+									<span>Real Estate</span>
 								</a>
 							</div>
 							<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center d-flex justify-content-center">
